@@ -4,9 +4,9 @@
  
  👀 I’m Fast learner. People person. Mobile App developer, DevOps Engineer,Linux Administrator, Flutter expert.
  
- 🌱 I’m currently learning Python, Cloud & DevOps technologies, SRE Methodologies, ...
+ 🌱 I’m currently working on Data Science Projects with Python, Cloud & DevOps technologies, SRE Methodologies, ...
  
- 💞️ I’m looking to collaborate on Flutter, Python projects, etc
+ 💞️ I’m looking to collaborate on, Python projects, Cloud Methodologies etc
  
  📫 Reach me on  [LinkedIn](https://www.linkedin.com/in/raja-singh-samuel-a2aaa1159/) , 📧 [Email](rssambbb0123@gmail.com) 
 
