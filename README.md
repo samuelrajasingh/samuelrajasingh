@@ -8,7 +8,7 @@
  
  💞️ I’m looking to collaborate on, Python projects, Cloud Methodologies etc
  
- 📫 Reach me on  [LinkedIn](https://www.linkedin.com/in/raja-singh-samuel-a2aaa1159/) , 📧 [Email](rssambbb0123@gmail.com) 
+ 📫 Reach me on  [LinkedIn](https://www.linkedin.com/in/raja-singh-samuel-a2aaa1159/) , 📧 [Email](samuelrajasingh@icloud.com) 
 
 <!---
 samuelrajasingh/samuelrajasingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
